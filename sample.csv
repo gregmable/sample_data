@@ -1,0 +1,201 @@
+id,first_name,last_name,email,age,department,city,salary,status,join_date,last_purchase_date,product,purchase_amount,loyalty_points,rating
+1,Uma,Brown,uma.brown18@example.com,23,Marketing,Austin,121570.55,Active,2022-09-08,2023-01-01,Economy Bundle,849.62,244,1.4
+2,Henry,Martin,henry.martin84@example.com,60,Legal,San Antonio,42918.96,Inactive,2022-07-23,2023-07-25,Starter Pack,1182.64,53,4.0
+3,Frank,Young,frank.young98@example.com,49,Operations,Los Angeles,77427.56,Active,2022-06-09,2022-09-28,Enterprise Suite,202.47,2817,3.4
+4,Zoe,Johnson,zoe.johnson71@example.com,51,Finance,Columbus,98985.09,Pending,2023-01-23,2023-03-05,Economy Bundle,392.65,569,1.2
+5,Henry,Scott,henry.scott13@example.com,40,Product,Phoenix,148374.37,Suspended,2024-05-25,2024-09-22,Service Basic,333.68,2910,1.8
+6,Iris,Young,iris.young22@example.com,65,Legal,Jacksonville,111283.89,Inactive,2023-09-16,2024-08-07,Gadget X,929.9,2211,5.0
+7,Uma,Young,uma.young8@example.com,57,HR,Columbus,64157.67,Active,2022-11-29,2023-12-28,Service Basic,808.32,542,1.8
+8,Sam,Nelson,sam.nelson83@example.com,42,Design,Chicago,63388.92,Pending,2023-05-27,2023-12-16,Gadget X,500.79,4598,3.2
+9,Xander,Lee,xander.lee29@example.com,49,Sales,Dallas,138760.52,Suspended,2023-02-13,2023-08-18,Widget B,1514.01,898,1.6
+10,Frank,Green,frank.green49@example.com,65,Support,San Diego,86437.6,Pending,2022-03-07,2022-09-21,Premium Plan,1722.95,94,3.7
+11,David,Allen,david.allen44@example.com,56,Marketing,Phoenix,122596.56,Suspended,2024-02-27,2025-01-21,Gadget X,912.91,2157,4.9
+12,Yara,Garcia,yara.garcia39@example.com,54,Legal,San Jose,140389.06,Inactive,2024-06-10,2025-04-27,Gadget X,754.09,1323,3.2
+13,Yara,Carter,yara.carter63@example.com,55,Engineering,Los Angeles,141034.28,Pending,2023-09-06,2024-02-19,Service Pro,486.51,1973,4.5
+14,Carol,Williams,carol.williams99@example.com,53,Sales,Chicago,129762.56,Suspended,2024-02-18,2024-11-17,Premium Plan,338.6,4322,4.5
+15,Noah,Miller,noah.miller92@example.com,56,Finance,San Antonio,123079.17,Pending,2023-12-08,2024-03-20,Starter Pack,1800.23,3698,1.5
+16,Henry,Williams,henry.williams76@example.com,43,HR,New York,42313.77,Active,2023-07-22,2023-11-17,Widget A,465.59,257,4.4
+17,Carol,Martin,carol.martin70@example.com,37,Sales,Jacksonville,70632.5,Suspended,2023-05-13,2023-08-31,Gadget Y,1571.39,3334,1.8
+18,David,Allen,david.allen94@example.com,49,Engineering,Austin,78972.73,Active,2023-02-25,2023-10-23,Widget A,811.22,2779,4.2
+19,David,Davis,david.davis55@example.com,34,Sales,Phoenix,60922.98,Suspended,2023-04-05,2023-06-16,Gadget Y,1750.23,617,2.8
+20,Beth,Adams,beth.adams2@example.com,57,Marketing,Charlotte,50769.96,Inactive,2023-10-30,2024-08-02,Gadget X,818.76,3943,1.9
+21,Mia,Nelson,mia.nelson34@example.com,25,Design,Phoenix,58110.08,Suspended,2022-01-03,2022-07-22,Premium Plan,1327.12,3986,1.6
+22,Jack,Miller,jack.miller96@example.com,25,Operations,New York,103709.83,Active,2023-07-10,2023-08-11,Economy Bundle,958.81,4350,1.6
+23,Quinn,Williams,quinn.williams31@example.com,33,Product,Los Angeles,47537.35,Inactive,2022-03-11,2023-02-20,Economy Bundle,1193.09,671,2.7
+24,Sam,Lee,sam.lee86@example.com,55,Operations,Houston,74800.68,Pending,2022-09-25,2023-01-08,Enterprise Suite,270.45,2457,2.8
+25,Diana,Scott,diana.scott13@example.com,26,Marketing,Dallas,41024.7,Inactive,2023-09-29,2024-07-14,Premium Plan,537.75,2859,4.5
+26,Chris,Davis,chris.davis91@example.com,45,Finance,San Jose,71348.61,Active,2023-03-25,2023-12-29,Premium Plan,605.76,848,4.8
+27,Emma,Wilson,emma.wilson20@example.com,29,Finance,Phoenix,137868.4,Inactive,2024-01-31,2024-11-10,Service Basic,415.16,2162,3.0
+28,Iris,Nelson,iris.nelson6@example.com,25,Engineering,Philadelphia,50152.83,Inactive,2023-03-10,2023-07-30,Service Pro,331.55,3619,3.2
+29,Noah,Thompson,noah.thompson70@example.com,22,Engineering,Columbus,52306.13,Pending,2023-12-09,2024-02-24,Economy Bundle,1109.52,3520,1.5
+30,Jack,Anderson,jack.anderson32@example.com,24,Marketing,Philadelphia,138881.71,Suspended,2022-08-04,2023-07-20,Economy Bundle,1501.46,1939,4.5
+31,Zoe,Green,zoe.green95@example.com,33,Operations,Fort Worth,136955.78,Suspended,2022-01-26,2022-04-28,Gadget Y,540.94,885,2.5
+32,Bob,Adams,bob.adams45@example.com,52,Finance,Columbus,64467.71,Inactive,2024-04-16,2024-12-08,Gadget Y,57.09,1582,2.6
+33,Iris,Adams,iris.adams83@example.com,26,Legal,San Antonio,146357.8,Pending,2022-10-13,2023-04-11,Widget A,239.53,2139,1.7
+34,Iris,Johnson,iris.johnson41@example.com,28,Product,San Jose,105622.84,Active,2022-12-20,2023-12-29,Enterprise Suite,1800.01,1557,2.0
+35,Wendy,Jackson,wendy.jackson88@example.com,22,HR,Philadelphia,97191.24,Suspended,2024-04-05,2025-01-06,Widget B,1898.26,2704,3.5
+36,Victor,Adams,victor.adams40@example.com,29,Product,Philadelphia,119172.97,Suspended,2022-11-04,2023-07-22,Service Pro,1113.28,1571,2.7
+37,Mia,Allen,mia.allen71@example.com,33,Engineering,Phoenix,107706.64,Pending,2022-11-05,2023-06-01,Gadget Y,865.48,4751,3.4
+38,Karen,White,karen.white61@example.com,50,Sales,Austin,88637.58,Active,2022-08-07,2023-04-26,Service Pro,1035.75,2745,1.4
+39,Yara,Davis,yara.davis19@example.com,65,Engineering,New York,74146.14,Inactive,2024-04-05,2024-07-16,Starter Pack,1226.44,596,2.8
+40,Chris,Hall,chris.hall64@example.com,58,Product,Houston,61387.88,Inactive,2023-12-15,2024-06-29,Widget A,1786.39,873,4.1
+41,Henry,Garcia,henry.garcia16@example.com,55,Design,Chicago,91100.49,Suspended,2023-07-25,2023-11-30,Premium Plan,1975.91,4877,2.3
+42,Yara,Nelson,yara.nelson55@example.com,50,Legal,San Diego,107391.76,Inactive,2024-01-07,2024-09-22,Starter Pack,905.64,2025,4.4
+43,Iris,Scott,iris.scott57@example.com,55,Marketing,Jacksonville,93305.67,Pending,2022-09-02,2023-01-21,Gadget Y,550.71,2619,4.6
+44,Carol,Jones,carol.jones91@example.com,31,HR,Los Angeles,65438.76,Suspended,2023-12-12,2024-02-29,Enterprise Suite,668.45,3816,2.7
+45,Grace,Baker,grace.baker90@example.com,48,Engineering,Columbus,82842.45,Suspended,2024-02-28,2024-12-24,Starter Pack,21.73,2881,2.2
+46,Mia,Adams,mia.adams78@example.com,48,HR,San Diego,99204.26,Inactive,2024-01-23,2024-10-29,Service Pro,877.31,237,2.6
+47,Victor,Allen,victor.allen17@example.com,47,Support,Dallas,119659.95,Active,2024-05-10,2025-01-05,Enterprise Suite,1187.87,222,1.3
+48,Noah,Jones,noah.jones42@example.com,51,HR,San Diego,59990.19,Pending,2022-09-24,2023-04-07,Service Basic,1524.85,3105,2.1
+49,Aaron,Jackson,aaron.jackson96@example.com,38,Legal,New York,131840.2,Pending,2023-04-27,2023-05-07,Gadget Y,1303.79,329,4.0
+50,Henry,Miller,henry.miller61@example.com,23,Marketing,San Jose,108346.92,Inactive,2022-09-02,2022-11-06,Starter Pack,1401.94,3021,1.7
+51,Tina,King,tina.king14@example.com,29,Support,New York,125557.11,Pending,2022-06-17,2022-11-24,Economy Bundle,1357.92,3074,2.6
+52,Wendy,Miller,wendy.miller32@example.com,26,Marketing,Jacksonville,105130.76,Pending,2024-04-30,2025-03-18,Economy Bundle,1613.0,4636,4.1
+53,Liam,Thompson,liam.thompson83@example.com,49,Operations,New York,112767.35,Suspended,2022-03-12,2022-11-27,Starter Pack,220.02,2967,3.5
+54,Aaron,White,aaron.white84@example.com,31,Finance,San Jose,87903.59,Suspended,2024-01-22,2024-10-16,Starter Pack,876.79,4853,2.1
+55,Beth,Davis,beth.davis97@example.com,27,Design,San Jose,70682.11,Suspended,2023-04-07,2023-08-10,Service Basic,67.11,2662,1.7
+56,Grace,Anderson,grace.anderson36@example.com,38,Legal,New York,77437.27,Inactive,2023-09-03,2024-08-28,Widget B,490.3,3329,3.0
+57,Yara,Davis,yara.davis3@example.com,52,Marketing,Phoenix,111049.32,Inactive,2023-05-18,2024-01-03,Enterprise Suite,1386.66,2508,3.7
+58,Liam,Harris,liam.harris71@example.com,57,Operations,Philadelphia,98401.41,Suspended,2023-03-12,2024-03-28,Service Pro,620.18,1888,1.5
+59,Grace,Taylor,grace.taylor24@example.com,29,HR,Houston,121716.92,Suspended,2024-02-20,2025-02-08,Service Pro,1451.92,4297,3.4
+60,David,Baker,david.baker39@example.com,34,Engineering,Jacksonville,72587.11,Inactive,2023-01-05,2023-04-07,Service Pro,100.58,446,3.2
+61,Wendy,Jones,wendy.jones2@example.com,62,Support,Phoenix,135530.73,Suspended,2023-05-18,2023-07-10,Starter Pack,886.53,1510,4.9
+62,Iris,Adams,iris.adams63@example.com,52,Marketing,San Jose,52549.59,Active,2022-03-08,2022-09-30,Gadget X,306.9,4610,4.8
+63,Carol,Davis,carol.davis77@example.com,29,Support,Houston,101388.03,Suspended,2023-03-03,2024-01-08,Starter Pack,1817.92,2435,4.4
+64,Noah,Moore,noah.moore13@example.com,58,HR,Austin,108313.01,Inactive,2023-09-17,2024-09-30,Service Pro,1324.25,1286,2.0
+65,Rachel,Williams,rachel.williams77@example.com,32,Design,Phoenix,40294.33,Active,2023-04-07,2024-03-25,Gadget Y,583.33,2316,3.8
+66,Olivia,Williams,olivia.williams76@example.com,65,HR,San Antonio,65676.62,Active,2022-09-28,2023-08-15,Premium Plan,457.37,1220,4.6
+67,Aaron,Jones,aaron.jones77@example.com,26,Support,Charlotte,46560.18,Pending,2024-03-22,2024-08-27,Starter Pack,257.46,2491,3.8
+68,Iris,Martin,iris.martin6@example.com,56,Product,Jacksonville,94317.47,Pending,2022-03-24,2023-01-25,Economy Bundle,508.23,748,1.9
+69,Victor,Baker,victor.baker87@example.com,58,Finance,San Jose,104583.52,Active,2022-01-22,2023-02-18,Gadget X,946.3,3622,4.7
+70,Frank,Lee,frank.lee61@example.com,49,Operations,San Antonio,109826.32,Pending,2023-05-19,2023-07-05,Service Basic,1343.57,1317,2.3
+71,Wendy,Harris,wendy.harris71@example.com,40,Engineering,San Diego,112884.19,Active,2023-02-15,2024-03-11,Service Basic,512.27,949,4.9
+72,Mia,Adams,mia.adams70@example.com,54,Design,San Antonio,130741.99,Active,2022-01-02,2022-12-05,Gadget Y,1041.69,4083,3.5
+73,Yara,Johnson,yara.johnson57@example.com,35,Design,Los Angeles,69376.19,Active,2022-05-15,2022-10-10,Economy Bundle,1600.63,1297,2.2
+74,Alice,Thompson,alice.thompson60@example.com,48,Marketing,Austin,50253.01,Inactive,2024-05-11,2024-07-09,Starter Pack,1865.98,2390,3.0
+75,Iris,Jackson,iris.jackson71@example.com,52,Sales,San Antonio,147826.91,Inactive,2022-09-07,2023-04-29,Economy Bundle,1021.4,1118,4.5
+76,Iris,Scott,iris.scott35@example.com,48,Engineering,Phoenix,77386.28,Pending,2024-03-17,2024-12-02,Economy Bundle,1164.05,4011,4.5
+77,Olivia,Thompson,olivia.thompson70@example.com,52,Product,San Diego,77963.63,Pending,2023-07-20,2024-08-14,Gadget Y,1961.74,1956,3.3
+78,Henry,Adams,henry.adams91@example.com,48,Product,San Antonio,44801.2,Inactive,2024-02-02,2024-10-02,Starter Pack,1930.0,1034,3.0
+79,Sam,Taylor,sam.taylor68@example.com,28,Design,New York,136160.94,Inactive,2023-03-27,2023-05-18,Enterprise Suite,1743.16,1264,1.3
+80,Zoe,Wilson,zoe.wilson11@example.com,43,Operations,Columbus,108558.53,Suspended,2023-02-12,2024-01-11,Service Basic,1257.33,3997,4.5
+81,Bob,Walker,bob.walker30@example.com,26,Marketing,San Antonio,65824.73,Active,2023-12-02,2024-04-28,Widget B,892.92,2453,4.6
+82,Bob,Taylor,bob.taylor19@example.com,25,HR,Dallas,72270.46,Suspended,2023-01-19,2023-08-28,Economy Bundle,1366.78,1475,1.7
+83,Carol,Walker,carol.walker75@example.com,46,Sales,Houston,108168.14,Suspended,2022-09-04,2023-05-17,Service Pro,924.55,76,4.6
+84,Olivia,Nelson,olivia.nelson57@example.com,40,Operations,San Jose,114537.2,Pending,2022-06-11,2022-07-19,Enterprise Suite,1383.72,3742,4.4
+85,Grace,Thomas,grace.thomas46@example.com,52,Support,Phoenix,51731.86,Pending,2023-01-26,2023-11-15,Widget A,1956.11,3242,2.1
+86,Sam,Adams,sam.adams96@example.com,65,Design,Columbus,125614.28,Pending,2022-02-20,2022-12-28,Gadget Y,1218.06,2886,1.9
+87,Grace,Walker,grace.walker85@example.com,38,Sales,Austin,114554.09,Active,2024-01-09,2025-02-05,Widget A,624.78,3611,1.1
+88,Liam,King,liam.king96@example.com,30,Product,Chicago,49914.67,Inactive,2022-10-30,2023-04-16,Gadget X,1575.16,2997,3.1
+89,Diana,Wilson,diana.wilson38@example.com,32,Operations,Fort Worth,68266.71,Active,2024-04-24,2024-12-27,Starter Pack,1926.16,1153,4.0
+90,Henry,Adams,henry.adams47@example.com,65,Marketing,Fort Worth,119663.84,Suspended,2023-02-11,2023-11-24,Widget A,536.27,1012,2.8
+91,Victor,King,victor.king48@example.com,65,Marketing,Austin,68837.75,Inactive,2023-01-26,2023-12-19,Starter Pack,59.8,4599,2.3
+92,Tina,Davis,tina.davis90@example.com,63,Finance,Austin,46953.87,Suspended,2024-04-23,2024-12-17,Widget B,288.16,304,2.2
+93,Paul,Brown,paul.brown50@example.com,28,Design,Philadelphia,65828.0,Suspended,2023-07-05,2023-09-13,Economy Bundle,1487.12,1265,4.5
+94,Uma,Brown,uma.brown89@example.com,53,Operations,Houston,107721.74,Suspended,2022-10-14,2022-10-31,Starter Pack,1901.6,2971,1.4
+95,Victor,Anderson,victor.anderson8@example.com,56,Product,Phoenix,139186.58,Inactive,2023-10-23,2024-04-24,Widget B,1898.53,3725,1.4
+96,Grace,Hall,grace.hall43@example.com,62,HR,Chicago,105686.06,Inactive,2022-01-22,2022-02-17,Widget B,1661.34,4540,1.8
+97,Grace,Baker,grace.baker1@example.com,36,Finance,Columbus,76141.55,Inactive,2022-06-01,2023-04-03,Gadget X,1085.03,1429,1.4
+98,Beth,Smith,beth.smith76@example.com,30,Operations,New York,41634.64,Inactive,2024-03-19,2024-07-19,Service Pro,114.27,3448,3.1
+99,Xander,Williams,xander.williams76@example.com,52,Marketing,San Diego,89310.27,Inactive,2023-01-06,2023-09-26,Economy Bundle,96.3,4271,2.2
+100,Uma,Smith,uma.smith55@example.com,25,Marketing,San Diego,149844.54,Suspended,2024-05-17,2024-12-09,Widget B,1799.54,2638,3.4
+101,Carol,Jones,carol.jones92@example.com,39,Operations,San Antonio,108674.92,Pending,2023-08-23,2024-05-30,Starter Pack,1016.05,3524,1.4
+102,Wendy,Brown,wendy.brown93@example.com,63,HR,San Antonio,111600.83,Suspended,2024-02-27,2024-12-06,Gadget Y,833.49,3715,2.6
+103,Xander,Brown,xander.brown48@example.com,42,Sales,Austin,86944.04,Suspended,2023-11-13,2024-03-23,Widget B,191.54,699,1.4
+104,David,King,david.king76@example.com,45,Legal,Dallas,129294.62,Pending,2023-07-24,2023-08-24,Widget B,827.51,3464,4.5
+105,Xander,Johnson,xander.johnson74@example.com,40,Legal,Houston,106045.11,Inactive,2022-12-27,2023-02-19,Starter Pack,456.25,886,2.4
+106,Rachel,Anderson,rachel.anderson55@example.com,29,Legal,Fort Worth,123886.62,Active,2023-08-11,2023-12-05,Economy Bundle,1858.88,2190,1.1
+107,Iris,Young,iris.young24@example.com,41,Sales,San Jose,141369.13,Suspended,2022-12-26,2022-12-30,Widget B,292.33,251,1.4
+108,Quinn,Miller,quinn.miller48@example.com,46,Finance,Jacksonville,86181.57,Pending,2022-12-16,2023-03-07,Economy Bundle,1196.49,430,1.6
+109,Yara,Walker,yara.walker85@example.com,25,Product,San Diego,114136.56,Suspended,2022-10-06,2023-05-21,Enterprise Suite,553.6,4197,1.5
+110,Noah,Brown,noah.brown68@example.com,40,Finance,New York,114603.97,Inactive,2023-08-31,2024-05-07,Enterprise Suite,1969.05,448,1.0
+111,Jack,Miller,jack.miller16@example.com,30,Engineering,San Diego,124057.7,Suspended,2022-10-24,2023-04-10,Gadget X,267.08,4362,3.8
+112,Quinn,Thompson,quinn.thompson95@example.com,64,Engineering,San Antonio,128682.02,Active,2022-03-15,2022-10-05,Starter Pack,1843.11,2564,3.3
+113,Sam,Thomas,sam.thomas3@example.com,62,Operations,Chicago,85946.34,Suspended,2022-04-28,2022-11-22,Service Basic,185.38,867,2.0
+114,Sam,Thomas,sam.thomas96@example.com,55,Operations,Houston,48651.18,Pending,2024-06-10,2024-11-16,Gadget X,161.99,934,3.1
+115,Grace,Nelson,grace.nelson19@example.com,44,HR,Los Angeles,78620.97,Inactive,2024-04-18,2025-03-15,Service Pro,402.57,4934,1.6
+116,Yara,Hall,yara.hall64@example.com,26,Design,Fort Worth,59486.07,Suspended,2024-03-02,2025-01-18,Economy Bundle,1289.55,2647,4.5
+117,Uma,Taylor,uma.taylor81@example.com,31,Finance,Fort Worth,88373.91,Pending,2023-04-26,2023-12-09,Economy Bundle,121.78,4156,1.3
+118,Olivia,White,olivia.white10@example.com,24,Marketing,San Jose,46257.91,Suspended,2024-05-01,2024-09-25,Starter Pack,1164.86,336,2.8
+119,Zoe,Lee,zoe.lee65@example.com,63,Sales,New York,60706.34,Suspended,2023-09-12,2024-05-13,Widget B,1623.82,2813,4.9
+120,Carol,Martin,carol.martin57@example.com,63,Design,Dallas,58981.48,Inactive,2022-09-11,2023-09-09,Service Basic,751.98,2317,2.5
+121,Yara,Taylor,yara.taylor83@example.com,65,Operations,Los Angeles,105767.44,Pending,2024-03-19,2025-02-06,Widget B,1120.35,3166,2.1
+122,Xander,Adams,xander.adams43@example.com,64,Marketing,San Jose,146085.1,Inactive,2023-09-10,2023-11-26,Service Basic,627.36,3210,1.5
+123,Wendy,Williams,wendy.williams17@example.com,41,Legal,Los Angeles,101481.43,Suspended,2023-10-21,2024-04-07,Premium Plan,730.04,2970,2.2
+124,Grace,Taylor,grace.taylor10@example.com,53,Finance,Columbus,61120.58,Active,2022-05-21,2022-08-09,Premium Plan,1544.04,4313,1.2
+125,Karen,Nelson,karen.nelson21@example.com,61,Sales,Columbus,54415.39,Inactive,2023-01-21,2023-04-10,Starter Pack,96.95,2984,3.7
+126,Henry,White,henry.white30@example.com,61,Legal,Houston,71342.07,Pending,2024-02-06,2024-09-23,Starter Pack,1808.91,1589,2.5
+127,Sam,White,sam.white65@example.com,51,Legal,San Antonio,124638.24,Inactive,2024-03-07,2024-09-19,Gadget Y,1604.51,1133,4.5
+128,Bob,Hall,bob.hall92@example.com,52,Legal,Columbus,136152.86,Active,2023-07-22,2023-09-13,Service Pro,176.91,1313,2.1
+129,Chris,Martin,chris.martin58@example.com,31,Operations,Charlotte,131415.14,Active,2022-04-04,2022-07-27,Enterprise Suite,115.98,4112,2.5
+130,Mia,Williams,mia.williams92@example.com,45,Operations,Fort Worth,64699.26,Inactive,2022-11-23,2023-01-13,Gadget X,86.22,3870,3.8
+131,Emma,Scott,emma.scott3@example.com,52,Finance,Houston,89346.16,Inactive,2022-01-06,2022-02-16,Premium Plan,1881.05,4987,3.1
+132,David,Scott,david.scott31@example.com,40,Product,Austin,66140.42,Suspended,2022-05-05,2022-05-30,Widget B,230.61,4094,3.4
+133,Alice,Hall,alice.hall38@example.com,54,Product,New York,103255.22,Pending,2024-01-06,2024-03-20,Gadget Y,1145.62,1534,3.7
+134,Carol,Martin,carol.martin65@example.com,45,Legal,Dallas,47444.73,Active,2023-06-23,2024-03-28,Enterprise Suite,1747.93,356,3.5
+135,Liam,Wilson,liam.wilson31@example.com,23,Marketing,Fort Worth,79280.33,Pending,2022-03-11,2022-09-04,Gadget X,98.23,4472,2.4
+136,Uma,Garcia,uma.garcia81@example.com,65,Sales,Fort Worth,91108.52,Inactive,2023-12-14,2024-08-16,Widget B,1434.93,3749,1.1
+137,Grace,Johnson,grace.johnson66@example.com,34,Product,Columbus,137436.94,Suspended,2022-11-20,2023-04-28,Service Pro,82.88,1565,2.1
+138,Beth,Scott,beth.scott16@example.com,25,Operations,San Antonio,135237.81,Suspended,2022-12-06,2023-04-25,Starter Pack,1790.33,3167,2.4
+139,Frank,Harris,frank.harris35@example.com,53,Marketing,Jacksonville,80408.16,Suspended,2024-03-27,2024-12-18,Widget B,866.91,1478,3.2
+140,Karen,Brown,karen.brown58@example.com,27,Support,Jacksonville,76071.19,Suspended,2022-10-30,2023-04-05,Gadget X,1382.63,2879,2.8
+141,Xander,Adams,xander.adams82@example.com,44,Engineering,Los Angeles,107633.66,Suspended,2023-03-22,2023-08-10,Service Basic,1031.04,1310,4.8
+142,Emma,Adams,emma.adams17@example.com,60,Marketing,Houston,114589.78,Pending,2023-03-25,2023-04-12,Service Basic,771.88,4646,1.1
+143,Emma,Allen,emma.allen98@example.com,50,Marketing,San Jose,144370.59,Inactive,2023-01-16,2023-09-01,Premium Plan,740.23,2575,3.6
+144,Henry,Brown,henry.brown50@example.com,23,Legal,Los Angeles,120924.23,Pending,2023-05-27,2024-02-17,Service Pro,1411.04,1757,5.0
+145,Jack,Young,jack.young58@example.com,53,Sales,Charlotte,62019.62,Suspended,2022-05-19,2022-06-26,Widget B,1622.92,2618,3.7
+146,Wendy,Williams,wendy.williams92@example.com,57,Sales,Fort Worth,99638.85,Pending,2022-11-04,2023-01-24,Premium Plan,456.24,1646,4.2
+147,Henry,Green,henry.green48@example.com,53,Design,Fort Worth,42891.24,Inactive,2023-07-22,2024-05-11,Economy Bundle,1769.65,538,2.2
+148,Wendy,King,wendy.king74@example.com,52,Marketing,Chicago,97826.52,Pending,2024-02-27,2024-09-24,Widget B,905.45,4238,2.4
+149,Chris,Baker,chris.baker17@example.com,57,Product,Dallas,110377.33,Active,2022-07-06,2023-08-04,Widget B,1041.02,2491,1.7
+150,Karen,Carter,karen.carter11@example.com,36,Finance,Houston,78062.54,Pending,2023-06-16,2023-11-09,Gadget X,1253.79,4370,1.4
+151,Uma,Garcia,uma.garcia85@example.com,59,Support,Jacksonville,143576.77,Pending,2022-06-07,2022-09-03,Economy Bundle,91.98,232,1.3
+152,Uma,Scott,uma.scott74@example.com,58,Product,San Jose,69112.15,Active,2022-08-04,2023-09-01,Starter Pack,1779.1,4469,2.2
+153,Jack,Harris,jack.harris39@example.com,37,Design,Los Angeles,128515.7,Active,2023-12-03,2024-06-28,Gadget X,884.81,3966,2.9
+154,Karen,Walker,karen.walker94@example.com,31,Operations,San Antonio,74384.07,Inactive,2024-01-06,2024-06-18,Service Basic,1034.81,869,2.3
+155,Olivia,Brown,olivia.brown7@example.com,39,Finance,San Antonio,89455.56,Suspended,2022-05-25,2022-07-14,Gadget Y,1925.74,1308,4.3
+156,Diana,Lee,diana.lee66@example.com,42,Design,San Diego,60881.75,Pending,2022-06-13,2023-02-24,Starter Pack,56.12,3221,3.0
+157,Henry,Miller,henry.miller64@example.com,59,Support,Charlotte,78818.46,Suspended,2022-02-21,2022-07-16,Service Pro,1078.01,880,2.7
+158,Chris,Wilson,chris.wilson52@example.com,45,Engineering,San Jose,124024.24,Inactive,2023-01-10,2023-02-03,Service Basic,1110.91,602,2.5
+159,Olivia,Scott,olivia.scott79@example.com,57,Marketing,Chicago,70769.27,Active,2023-10-01,2024-09-14,Enterprise Suite,752.66,2777,3.2
+160,Liam,Scott,liam.scott65@example.com,31,Engineering,New York,61896.37,Active,2023-06-06,2023-12-29,Gadget X,1430.05,3880,3.1
+161,Emma,Walker,emma.walker21@example.com,54,Product,San Jose,55375.91,Pending,2023-09-20,2024-03-02,Economy Bundle,679.38,4175,3.1
+162,Wendy,Lee,wendy.lee43@example.com,41,Marketing,San Antonio,92238.19,Pending,2022-01-18,2022-07-26,Widget A,1197.85,2175,4.9
+163,Zoe,Scott,zoe.scott75@example.com,59,Design,Chicago,103539.78,Suspended,2024-01-09,2024-02-05,Gadget X,1645.11,1984,1.1
+164,Wendy,Brown,wendy.brown20@example.com,34,Product,Jacksonville,42083.11,Inactive,2022-11-18,2023-06-21,Enterprise Suite,1008.62,3863,4.5
+165,Xander,King,xander.king72@example.com,25,Operations,Austin,117635.28,Suspended,2023-06-16,2023-10-01,Premium Plan,759.88,1418,2.8
+166,Rachel,Taylor,rachel.taylor88@example.com,56,Finance,San Jose,78971.57,Suspended,2024-03-01,2025-03-06,Gadget Y,1915.1,2285,3.2
+167,Henry,Moore,henry.moore63@example.com,40,Operations,San Diego,117539.1,Pending,2023-12-08,2024-12-03,Premium Plan,1868.06,2240,2.2
+168,Sam,Allen,sam.allen99@example.com,56,Sales,Phoenix,81766.36,Active,2023-02-09,2023-08-05,Service Pro,1911.07,647,2.4
+169,Olivia,Hall,olivia.hall69@example.com,38,Finance,Charlotte,122207.23,Pending,2022-08-08,2022-11-20,Gadget X,227.36,4807,2.0
+170,Bob,Allen,bob.allen13@example.com,55,Product,Philadelphia,64823.88,Suspended,2022-08-27,2022-09-23,Widget B,1365.57,1126,1.0
+171,Rachel,Carter,rachel.carter62@example.com,32,HR,Fort Worth,84759.82,Pending,2024-06-18,2025-02-17,Service Basic,577.98,484,4.6
+172,Carol,Hall,carol.hall5@example.com,58,Sales,San Antonio,65544.22,Inactive,2024-01-27,2025-02-01,Widget A,1994.37,3252,4.2
+173,Frank,Carter,frank.carter73@example.com,40,Support,Los Angeles,136441.75,Pending,2022-01-10,2022-06-12,Service Pro,914.15,4450,3.1
+174,Chris,Jones,chris.jones43@example.com,54,Sales,Jacksonville,91482.28,Suspended,2022-07-17,2022-09-13,Service Pro,1440.01,115,3.9
+175,Zoe,Moore,zoe.moore79@example.com,58,Product,Columbus,114184.13,Suspended,2022-07-17,2022-10-15,Premium Plan,662.57,3283,3.7
+176,Frank,Jones,frank.jones34@example.com,52,Product,Houston,75596.18,Suspended,2022-09-12,2022-09-16,Service Pro,1908.53,2473,3.3
+177,Sam,Smith,sam.smith8@example.com,38,Marketing,San Diego,111905.17,Pending,2023-12-11,2024-04-10,Gadget X,816.78,4116,4.7
+178,Chris,Young,chris.young48@example.com,41,Support,Houston,115931.94,Inactive,2023-10-17,2024-03-17,Gadget X,961.58,3727,4.0
+179,Tina,Anderson,tina.anderson69@example.com,48,HR,Fort Worth,117213.48,Inactive,2023-04-28,2024-05-20,Economy Bundle,1747.54,670,3.1
+180,Quinn,Young,quinn.young8@example.com,45,Legal,Charlotte,48591.3,Inactive,2023-08-01,2023-09-28,Economy Bundle,1077.95,1347,2.3
+181,Quinn,White,quinn.white63@example.com,29,Marketing,Charlotte,114832.48,Suspended,2024-01-05,2024-10-30,Widget A,912.33,4204,2.7
+182,Sam,Johnson,sam.johnson93@example.com,57,Engineering,San Antonio,90861.61,Pending,2024-04-06,2024-09-11,Widget A,1494.15,4737,1.3
+183,Noah,Anderson,noah.anderson61@example.com,26,Engineering,Phoenix,99527.99,Suspended,2022-03-03,2022-04-08,Gadget X,1540.25,3443,2.5
+184,Chris,Thomas,chris.thomas11@example.com,50,Legal,Chicago,135658.23,Pending,2023-01-22,2023-08-03,Widget B,365.16,4401,2.6
+185,Emma,King,emma.king39@example.com,36,Design,Austin,131830.38,Suspended,2024-02-14,2024-02-26,Premium Plan,764.76,1881,2.0
+186,Liam,Jones,liam.jones98@example.com,39,Marketing,New York,60732.85,Suspended,2024-06-15,2025-06-22,Economy Bundle,1534.45,128,2.0
+187,Carol,Brown,carol.brown91@example.com,60,Engineering,Houston,43693.39,Active,2023-09-05,2024-08-15,Enterprise Suite,883.54,4421,1.9
+188,Beth,Scott,beth.scott94@example.com,25,Support,Philadelphia,55414.91,Pending,2022-10-24,2023-02-21,Gadget Y,610.51,1173,4.9
+189,Quinn,Davis,quinn.davis76@example.com,48,Sales,Austin,73055.1,Suspended,2022-03-04,2022-12-15,Premium Plan,996.29,2821,4.8
+190,Victor,Thomas,victor.thomas20@example.com,55,Finance,San Antonio,75060.79,Inactive,2023-03-03,2023-09-29,Premium Plan,952.3,1846,2.2
+191,Wendy,Jones,wendy.jones54@example.com,51,Legal,Dallas,140621.53,Inactive,2023-07-30,2024-02-27,Enterprise Suite,493.29,1665,2.3
+192,Carol,Carter,carol.carter93@example.com,50,HR,New York,133184.67,Pending,2022-04-05,2023-01-05,Enterprise Suite,1350.61,4939,1.2
+193,Carol,Miller,carol.miller62@example.com,59,HR,Columbus,119673.58,Pending,2023-07-27,2023-11-16,Service Pro,1914.47,125,1.8
+194,Grace,King,grace.king32@example.com,29,Support,Jacksonville,122156.72,Inactive,2024-02-12,2024-10-15,Enterprise Suite,1831.1,4522,2.3
+195,Jack,Thomas,jack.thomas34@example.com,51,Operations,Dallas,98701.51,Suspended,2023-01-03,2023-06-10,Starter Pack,206.23,3846,4.0
+196,Karen,Carter,karen.carter73@example.com,35,HR,Jacksonville,80777.54,Inactive,2023-02-28,2023-03-24,Widget A,528.94,4784,3.3
+197,Noah,Moore,noah.moore73@example.com,31,HR,San Diego,61581.1,Pending,2022-08-24,2023-03-07,Service Pro,1529.09,4002,4.9
+198,Uma,King,uma.king22@example.com,53,Sales,Jacksonville,90691.19,Suspended,2024-01-21,2024-07-20,Gadget X,1834.63,4441,5.0
+199,Bob,Martin,bob.martin7@example.com,24,Engineering,San Antonio,132297.53,Inactive,2022-03-18,2023-02-24,Gadget Y,145.26,1237,1.0
+200,Quinn,White,quinn.white79@example.com,45,Design,Austin,46649.51,Suspended,2023-10-16,2024-09-22,Widget A,23.16,4519,2.6
